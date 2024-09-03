@@ -1,3 +1,3 @@
 # README
 
-Old UI project showcase
+Old 2014 UI Portfolio
